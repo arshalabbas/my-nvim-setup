@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.indent.indent-rainbowline" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.scrolling.cinnamon-nvim" },
+  { import = "astrocommunity.motion.mini-move" },
   -- import/override with your plugins folder
 }
