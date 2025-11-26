@@ -11,5 +11,6 @@ return {
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.scrolling.cinnamon-nvim" },
   { import = "astrocommunity.motion.mini-move" },
+  { import = "astrocommunity.editing-support.conform-nvim" },
   -- import/override with your plugins folder
 }
